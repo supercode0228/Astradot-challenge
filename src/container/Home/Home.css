@@ -1,0 +1,18 @@
+.pagination ul {
+  margin-top: 50px;
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.pagination li {
+  display: inline-block;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.active {
+  border: 1px solid blue;
+  padding: 2px 5px;
+  outline: none;
+}

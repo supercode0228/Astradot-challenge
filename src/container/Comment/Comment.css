@@ -1,0 +1,12 @@
+.comment {
+  margin: 30px 20px;
+}
+
+.comment-title {
+  color: grey;
+  margin-bottom: 10px;
+}
+
+.comment-text {
+  margin-left: 20px
+}

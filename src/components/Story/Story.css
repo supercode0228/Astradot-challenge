@@ -1,0 +1,26 @@
+.story__item {
+  margin: 15px 0 0 15px;
+  text-align: left;
+}
+
+.story__item__title a {
+  color: black;
+  font-size: 15px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.story__item__content span {
+  color: grey;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.story__item__content__points {
+  padding-right: 15px;
+  border-right: 1px solid grey;
+}
+
+.story__item__content__comments {
+  margin-left: 15px;
+}
